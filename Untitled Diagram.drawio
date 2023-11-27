@@ -1,9 +1,127 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T22:23:14.998Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" version="22.1.4" etag="VOSZKeiJUh1f_5SOv4cg" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T22:50:14.353Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="Fa0ewDmWM6vQPRn_noWt" version="22.1.4" type="github">
   <diagram name="Page-1" id="oHWZwroCV7d-bQeaQW5i">
-    <mxGraphModel>
+    <mxGraphModel dx="1362" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="neNEP75Q85rgO_CUVwWe-3" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="30" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-4" value="" style="line;strokeWidth=2;html=1;rotation=90;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="305" y="417.5" width="480" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-5" value="" style="line;strokeWidth=2;html=1;rotation=90;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="10" y="440" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-8" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.025;exitY=0.463;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.121;entryY=0.516;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="252.96000000000004" y="257" as="sourcePoint" />
+            <mxPoint x="543" y="303.0799999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-22" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Client Hello :&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;cipher suites&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="neNEP75Q85rgO_CUVwWe-8">
+          <mxGeometry x="-0.1645" y="-1" relative="1" as="geometry">
+            <mxPoint x="16" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-9" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.025;exitY=0.463;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.121;entryY=0.516;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="475" y="80" as="sourcePoint" />
+            <mxPoint x="765" y="126" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-10" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.025;exitY=0.463;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.121;entryY=0.516;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="485" y="90" as="sourcePoint" />
+            <mxPoint x="775" y="136" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-11" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.19;exitY=0.492;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.298;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="546" y="409.20000000000005" as="sourcePoint" />
+            <mxPoint x="252" y="461.03999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-26" value="digital certificate" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="neNEP75Q85rgO_CUVwWe-11">
+          <mxGeometry x="0.0825" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-12" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0.25;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.142;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="545" y="353.1600000000001" as="sourcePoint" />
+            <mxPoint x="250" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-23" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Server Hello:&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;selected suite&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="neNEP75Q85rgO_CUVwWe-12">
+          <mxGeometry x="0.2105" y="-3" relative="1" as="geometry">
+            <mxPoint x="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-13" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.025;exitY=0.463;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.696;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" target="neNEP75Q85rgO_CUVwWe-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="253" y="572" as="sourcePoint" />
+            <mxPoint x="543" y="618" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-33" value="RSA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="neNEP75Q85rgO_CUVwWe-13">
+          <mxGeometry x="-0.0273" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-14" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.025;exitY=0.463;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.121;entryY=0.516;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="495" y="100" as="sourcePoint" />
+            <mxPoint x="785" y="146" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-15" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.025;exitY=0.463;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.121;entryY=0.516;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="505" y="110" as="sourcePoint" />
+            <mxPoint x="795" y="156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-16" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.025;exitY=0.463;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.892;entryY=0.508;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" target="neNEP75Q85rgO_CUVwWe-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="253" y="666" as="sourcePoint" />
+            <mxPoint x="543" y="712" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-34" value="DH/ECDH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="neNEP75Q85rgO_CUVwWe-16">
+          <mxGeometry x="-0.0998" y="3" relative="1" as="geometry">
+            <mxPoint x="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-17" value="Client" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="220" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-18" value="TLS-Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="510" y="200" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-19" value="Client" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-20" value="Client" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-21" value="2. pick up cipher suite" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="585" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-25" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;3. provides digital certificate:&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;server name + CA + server&#39;s public key&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="550" y="387.5" width="220" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-27" value="1. get client cipher list" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="110" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-28" value="4. validate the certificate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="110" y="480" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-30" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;5.1 encrypts a RANDOM NUMBER&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;(PreMasterSecret with server&#39;s public key)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="580" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="neNEP75Q85rgO_CUVwWe-32" value="5.2 use DH or ECDH key exchange to generate&amp;nbsp; a random and unique session key" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="670" width="200" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
